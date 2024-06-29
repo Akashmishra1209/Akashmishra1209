@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akashmishra1209
+- 👋 Hi, I’m Akash
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on welltext.vercel.app
